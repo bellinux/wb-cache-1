@@ -1,0 +1,37 @@
+98|607|Public
+5|$|Oracle's dialect of SQL {{provides}} a <b>built-in</b> <b>function</b> DECODE {{which can be}} used instead of the simple CASE expressions and considers two nulls equal.|$|E
+25|$|In {{programming}} languages, sin {{is typically}} either a <b>built-in</b> <b>function</b> or {{found within the}} language's standard math library.|$|E
+25|$|Many {{scientific}} calculators and computing software have a <b>built-in</b> <b>function</b> for {{calculating the}} number of k-permutations of n.|$|E
+5000|$|... {{is a new}} {{computational}} data type. The ordinal {{facilities are}} like those in Pascal,e.g. but in addition the name and internal values are accessible via <b>built-in</b> <b>functions.</b> <b>Built-in</b> <b>functions</b> provide access to an ordinal value's predecessor and successor.|$|R
+50|$|EXEC 2 has {{additional}} <b>built-in</b> <b>functions.</b>|$|R
+50|$|User-defined {{functions}} are supported and <b>built-in</b> <b>functions</b> are provided. The graphics card manufacturer may optimize <b>built-in</b> <b>functions</b> at the hardware level. Many of these {{functions are}} similar to those in the math library of the C programming language while others are specific to graphics programming.|$|R
+25|$|Most {{spreadsheet}} software {{also provides a}} <b>built-in</b> <b>function</b> for calculating the number of k-permutations of n, called PERMUT in many popular spreadsheets.|$|E
+25|$|In 2011 {{researchers}} at Hanyang University, Korea, reported a polygon-surface reference Korean male phantom (PSRK-Man). This phantom was constructed by converting the Visible Korean Human-Man (VKH-man) into a polygonal mesh-based phantom. The height, weight, geometry of organs and tissues were adjusted {{to match the}} Reference Korean data. Without voxelization the PSRK-man could be directly implemented in Geant4 Monte Carlo simulation using a <b>built-in</b> <b>function,</b> but the computation time was 70~150 times longer than that required by High Definition Reference Korean-Man (HDRK-Man), a voxelized phantom derived also from VKH-man.|$|E
+2500|$|Ports: Ports {{are used}} to {{communicate}} with the external world. Ports are created with the <b>built-in</b> <b>function</b> open_port. Messages can be sent to and received from ports, but these messages must obey the so-called [...] "port protocol." ...|$|E
+5000|$|<b>Built-in</b> {{user-defined}} <b>functions</b> (UDFs) {{to manipulate}} dates, strings, and other data-mining tools. Hive supports extending the UDF set to handle use-cases {{not supported by}} <b>built-in</b> <b>functions.</b>|$|R
+5000|$|... about 20 <b>built-in</b> <b>functions</b> {{and support}} for {{user-defined}} functions ...|$|R
+5000|$|A rich {{selection}} of <b>built-in</b> <b>functions,</b> especially string and word processing ...|$|R
+5000|$|<b>Built-in</b> <b>function</b> to {{test the}} {{connection}} setup (port forwarding).|$|E
+5000|$|Instantiate a SQL {{object with}} the CreateSQL <b>built-in</b> <b>function.</b>|$|E
+5000|$|In addition, PeopleCode {{supports}} methods. The main {{differences between}} a <b>built-in</b> <b>function</b> and a method are: ...|$|E
+5000|$|New <b>built-in</b> <b>functions</b> for {{implementing}} regular expressions: matches, concat, and replace ...|$|R
+50|$|<b>Built-in</b> <b>functions</b> are termed {{commands}} or, if {{they return}} a value, identifiers.|$|R
+50|$|NetvilleThetaCz,m, NevilleThetaDz,m, NevilleThetaNz,m, and NevilleThetaSz,m are <b>built-in</b> <b>{{functions}}</b> of MathematicaNo such {{functions in}} Maple.|$|R
+50|$|Many {{scientific}} calculators and computing software have a <b>built-in</b> <b>function</b> for {{calculating the}} number of k-permutations of n.|$|E
+5000|$|In {{programming}} languages, [...] {{is typically}} either a <b>built-in</b> <b>function</b> or {{found within the}} language's standard math library.|$|E
+5000|$|...A <b>built-in</b> <b>function,</b> in your code, is {{on a line}} by itself, {{and does}} not (generally) have any dependencies.|$|E
+5000|$|Write {{code that}} returns {{the length of}} a string without using any <b>built-in</b> <b>functions.</b>|$|R
+50|$|NoteTab {{provides}} <b>built-in</b> <b>functions</b> for accessing external command-line {{programs and}} utilities, including the piping of information.|$|R
+3000|$|... a OPNET {{software}} was chosen over other simulation packages {{because of their}} vast library of <b>built-in</b> <b>functions.</b>|$|R
+50|$|Most {{spreadsheet}} software {{also provides a}} <b>built-in</b> <b>function</b> for calculating the number of k-permutations of n, called PERMUT in many popular spreadsheets.|$|E
+5000|$|Oracle's dialect of SQL {{provides}} a <b>built-in</b> <b>function</b> [...] {{which can be}} used instead of the simple CASE expressions and considers two nulls equal.|$|E
+5000|$|Later {{versions}} (non-classic) support [...] constructs. Together {{with the}} <b>built-in</b> <b>function</b> , CALL {{can be used}} in place of many cases of [...] This is a classic program: ...|$|E
+5000|$|Improved Pre-Processing Capabilities: Additions to <b>built-in</b> <b>functions</b> {{include a}} range of Boolean {{operations}} and an If-Then-Else function.|$|R
+5000|$|HP-10s — A {{scientific}} calculator {{with more than}} 240 <b>built-in</b> <b>functions,</b> with 2 lines x 10 digits LCD.|$|R
+5000|$|... {{user-defined}} functions (UDFs) {{within an}} RDB (also a large suite of <b>built-in</b> <b>functions</b> such as trigonometric and statistical) ...|$|R
+5000|$|... >> repeat i 3 print i [...] "hello" [...] 1 hello2 hello3 hello( [...] {{is in fact}} a <b>built-in</b> <b>function</b> in Rebol and is not a {{language}} construct or keyword).|$|E
+5000|$|It {{also appears}} in the PHP, Node.js and Perl {{programming}} languages {{in the form of}} the unlink (...) <b>built-in</b> <b>function.</b> Like the Unix utility, it is also used to delete files.|$|E
+50|$|This is {{generally}} difficult to compute this through a hand-written computation. However, as most computer algebra systems have a <b>built-in</b> <b>function</b> to compute resultants, it is straightforward to compute {{it with a}} computer.|$|E
+5000|$|<b>Built-in</b> <b>Functions</b> [...] - [...] table search, phonetic conversion, field verify, field edit, bit checking, input formatting, {{weighted}} retrieval.|$|R
+50|$|Functions : Simantics System Dynamics {{contains}} <b>built-in</b> <b>functions</b> {{and also}} user-definable functions. Functions can be exchanged via exporting and importing.|$|R
+2500|$|<b>Functions</b> {{are either}} <b>built-in</b> or user defined. A {{large number of}} <b>built-in</b> <b>functions</b> exist and are defined in the TTM {{reference}} manual ...|$|R

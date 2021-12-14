@@ -1,0 +1,3 @@
+1|0|Public
+50|$|In {{computer}} communications, enquiry is a transmission-control {{character that}} requests {{a response from}} the receiving station with which a connection has been set up. It represents a signal intended to trigger a response at the receiving end, {{to see if it}} is still present. The response, an <b>answer-back</b> <b>code</b> to the terminal that transmitted the WRU (who are you) signal, may include station identification, the type of equipment in service, and the status of the remote station.|$|E
+

@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|Emitters were sets of 12 exit hubs that {{automatically}} generated a pulse at each specified {{time in the}} card cycle. The twelve exit hubs were wired to contacts on a rotary switch that turned with the card cycle. Thus wiring the 6 exit from an emitter to a punch magnet entry would cause a 6 to be punched at that position. Emitters {{might be used to}} put a numeric constant value, say a date, on every card. <b>Alphanumeric</b> <b>constant</b> data could be created by carefully combining digit and zone pulses. Later machines, such as the 407 also had a complete set of alphanumeric emitters that only required one wire to use.|$|E
+

@@ -1,0 +1,37 @@
+0|10000|Public
+50|$|Campsites have canvas wall tents, {{each with}} two cots. Each {{campsite}} has picnic tables, a bulletin board, a flagpole, {{and a group}} shelter. Some campsites have cabins equipped with a full kitchen that <b>includes</b> <b>a</b> stove, hot water, and electricity. Some campsites have a pavilion and an Adirondack shelter with a cooking space and electricity. Site Conowingo can support 24 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Dan Beard can support 40 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Flint Ridge can support 60 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Friar Tuck can support 16 people <b>and</b> <b>includes</b> <b>an</b> Adirondack shelter <b>and</b> trailer pad. Site Frontier can support 24 people <b>and</b> <b>includes</b> <b>a</b> lodge. Site Hawkeye can support 16 people <b>and</b> <b>includes</b> <b>an</b> Adirondack shelter <b>and</b> trailer pad. Site Jamestown can support 24 people <b>and</b> <b>includes</b> <b>an</b> Adirondack shelter <b>and</b> trailer pad. Site Lookout can support 30 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Prospect can support 40 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Susquehanna can support 40 people <b>and</b> <b>includes</b> <b>a</b> lodge <b>and</b> trailer pad. Site Timberline can support 24 people <b>and</b> <b>includes</b> <b>an</b> Adirondack shelter <b>and</b> trailer pad. The camp also offers a 30-foot outdoor screen, often used for movies.|$|R
+50|$|<b>A</b> <b>viewport</b> is <b>a</b> polygon viewing {{region in}} {{computer}} graphics.|$|R
+5000|$|... #Caption: Four {{steps of}} <b>a</b> <b>viewport</b> {{divisions}} for <b>a</b> simple scene ...|$|R
+50|$|The inputs are {{a list of}} polygons and <b>a</b> <b>viewport.</b> The {{best case}} {{is that if the}} list of polygons is simple, then draw the polygons in the viewport. Simple is defined as one polygon (then the polygon or its part is drawn in {{appropriate}} part of <b>a</b> <b>viewport)</b> or <b>a</b> <b>viewport</b> that is one pixel in size (then that pixel gets a color of the polygon closest to the observer). The continuous step is to split the viewport into 4 equally sized quadrants and to recursively call the algorithm for each quadrant, with a polygon list modified such that it only contains polygons that are visible in that quadrant.|$|R
+50|$|Encompasses a 2.5 acre {{area for}} the zoo's three {{elephants}} <b>and</b> <b>includes</b> <b>an</b> Elephant Interpretive Center which highlights {{of the life of}} the Asian elephant species. <b>And</b> <b>includes</b> <b>a</b> life size climbable elephant sculpture. Visitors can view the elephants from both indoor and outdoor viewing areas <b>and</b> the exhibit <b>includes</b> <b>an</b> elephant demonstration yard.|$|R
+50|$|The {{armament}} {{for both}} the AF-40-8-1 and AF-40-8-2 varies according to customer specifications. The AF-40-8-1 is capable of mounting anything up to <b>and</b> <b>including</b> <b>a</b> 40 mm cannon, and the AF-40-8-2 anything up to <b>and</b> <b>including</b> <b>a</b> low-recoil 105 mm cannon.|$|R
+50|$|Records in 2.7K <b>and</b> <b>includes</b> <b>a</b> 57 W charger.|$|R
+5000|$|Flying quadrotor robots, <b>and</b> <b>includes</b> <b>a</b> {{detailed}} Simulink model.|$|R
+50|$|Records in 4K, <b>and</b> <b>includes</b> <b>a</b> 100 W fast charger.|$|R
+50|$|Shooting {{began in}} January 2008 <b>and</b> <b>included</b> <b>a</b> {{schedule}} in China.|$|R
+50|$|The {{show was}} shot on {{videotape}} <b>and</b> <b>included</b> <b>a</b> laugh track.|$|R
+50|$|TinyHELL was {{the second}} TinyMUD server <b>and</b> <b>included</b> <b>a</b> whisper command.|$|R
+5000|$|Supports GRUB {{bootloader}} on i386 <b>and</b> <b>includes</b> <b>a</b> graphical configuration tool ...|$|R
+50|$|Fort Loudoun State Park {{is located}} near Vonore, <b>and</b> <b>includes</b> <b>a</b> {{replica of the}} 18th-century colonial Fort Loudoun. The Tellico Blockhouse site lies {{opposite}} the river from Fort Loudoun, <b>and</b> <b>includes</b> <b>a</b> layout of the 1790s-era blockhouse (marked by stones and posts). The Sequoyah Museum, dedicated to the Cherokee scholar, is located near Fort Loudoun.|$|R
+5|$|The {{show was}} divided into two parts <b>and</b> <b>included</b> <b>a</b> planned encore.|$|R
+500|$|Garden wall {{extending}} from Shalden Lodge <b>and</b> <b>including</b> <b>a</b> service building (II) ...|$|R
+50|$|The {{characters}} are unrelated <b>and</b> <b>include</b> <b>a</b> western gunslinger, superheroes, and supervillains.|$|R
+50|$|Rosswald is {{a winter}} sports resort <b>and</b> <b>includes</b> <b>a</b> small ski area.|$|R
+5000|$|Garden wall {{extending}} from Shalden Lodge <b>and</b> <b>including</b> <b>a</b> service building (II) ...|$|R
+5000|$|BPEL - an {{executable}} {{business process}} language <b>and</b> <b>includes</b> <b>an</b> abstract protocol ...|$|R
+50|$|Standard 15 tracks as above, <b>and</b> <b>includes</b> <b>a</b> second disc <b>and</b> DVD.|$|R
+50|$|Track #1-18 from {{standard}} edition, <b>and</b> <b>includes</b> <b>a</b> second disc <b>and</b> DVD.|$|R
+5000|$|Standard 19 tracks as above, <b>and</b> <b>includes</b> <b>a</b> second disc <b>and</b> DVD.|$|R
+5000|$|The {{tower is}} for sight-seeing <b>and</b> <b>includes</b> <b>a</b> {{restaurant}} <b>and</b> cocktail lounge.|$|R
+5000|$|Track #1-19 from {{standard}} edition, <b>and</b> <b>includes</b> <b>a</b> second disc <b>and</b> DVD.|$|R
+50|$|The EPCglobal Architecture defines <b>and</b> <b>includes</b> <b>a</b> list of EPC-related {{roles and}} standards.|$|R
+50|$|The archive {{is located}} in Templeman Library, <b>and</b> <b>includes</b> <b>a</b> public exhibit gallery.|$|R
+50|$|The Loma Community Park covers about 0.5 acre <b>and</b> <b>includes</b> <b>a</b> small playground.|$|R
+50|$|It was renovated in the 1990s <b>and</b> <b>includes</b> <b>a</b> {{graveyard}} with 300-year-old tombstones.|$|R
+50|$|Reservations {{are needed}} <b>and</b> <b>include</b> <b>an</b> {{overnight}} stay, meals, and rope tow use.|$|R
+5000|$|Star Wars: In Concert, {{introduced}} by Ford, <b>and</b> <b>including</b> <b>a</b> cameo by BB-8 ...|$|R
+25|$|The ESPACE Academy {{is located}} within Deer Valley High School <b>and</b> <b>includes</b> <b>a</b> planetarium.|$|R
+25|$|North Park is 6 acres (20,234m²) <b>and</b> <b>includes</b> <b>a</b> {{baseball}} diamond, a batting cage.|$|R
+2500|$|The Arena's {{diversification}} {{went beyond}} sports <b>and</b> <b>included</b> <b>a</b> variety of entertainment events including: ...|$|R
+50|$|A 60-page booklet {{comes with}} the album, <b>and</b> <b>includes</b> <b>a</b> {{biography}} by Gene Santoro.|$|R
+50|$|The ESPACE Academy {{is located}} within Deer Valley High School <b>and</b> <b>includes</b> <b>a</b> planetarium.|$|R

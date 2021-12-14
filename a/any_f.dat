@@ -1,0 +1,37 @@
+330|1927|Public
+25|$|If K is a field, a {{valuation}} v {{is a group}} homomorphism {{from the}} multiplicative group K* to a totally ordered abelian group G such that, for <b>any</b> <b>f,</b> g in K with f + g nonzero, v(f + g) ≥ min{v(f), v(g)}. The valuation ring of v is the subring of K consisting of zero and all nonzero f such that v(f) ≥ 0.|$|E
+2500|$|The {{notion of}} a {{spectrum}} is the common basis of commutative algebra and algebraic geometry. Algebraic geometry proceeds by endowing Spec R with a sheaf [...] (an entity that collects functions defined locally, i.e. on varying open subsets). The datum of the space and the sheaf is called an affine scheme. Given an affine scheme, the underlying ring R can be recovered as the global sections of [...] Moreover, this one-to-one correspondence between rings and affine schemes is also compatible with ring homomorphisms: <b>any</b> <b>f</b> : R → S {{gives rise to a}} continuous map in the opposite direction ...|$|E
+5000|$|... (In the {{following}} sentences, large {{is used as}} an example; however, the argumentation holds for <b>any</b> <b>F.)</b> ...|$|E
+5000|$|Take <b>any</b> field <b>F,</b> <b>any</b> {{separable}} polynomial in Fx, and let E be its splitting field.|$|R
+30|$|Open {{image in}} new window and <b>any</b> {{function}} <b>f</b> on E.|$|R
+50|$|Uniqueness: For <b>any</b> {{property}} <b>F,</b> {{there is}} exactly {{one form of}} F-ness.|$|R
+5000|$|We {{must first}} define an {{analogue}} of the modulus of continuity, ϖ′ƒ(δ). For <b>any</b> <b>F</b> ⊆ E, set ...|$|E
+50|$|In general, a {{consensus}} algorithm can make progress using 2F+1 processors despite the simultaneous failure of <b>any</b> <b>F</b> processors.|$|E
+50|$|More generally, the {{conclusion}} holds for <b>any</b> <b>F</b> in L2(C0; R) that is differentiable {{in the sense}} of Malliavin.|$|E
+5000|$|... "Move <b>Any</b> Mountain (<b>F</b> Troop Edit)" [...] (remixed by F Troop) - 3:27 ...|$|R
+5000|$|For n=3, we {{have for}} <b>any</b> polynomials <b>f</b> and g of degree (at most) 3: ...|$|R
+5000|$|... for <b>any</b> {{function}} <b>f</b> {{bounded by}} 1, {{and for some}} finite constants [...] In addition, for any : ...|$|R
+5000|$|... {{with the}} useful formula that for <b>any</b> <b>f</b> and g smooth enough {{for all the}} terms to make sense, ...|$|E
+5000|$|For a {{cumulative}} distribution function F(x) with mean μ and (generalized) inverse x(F), then for <b>any</b> <b>F</b> with 0 < F < 1 : ...|$|E
+50|$|Glicksberg−Reiter condition. For <b>any</b> <b>f</b> in L1(G), the {{distance}} between 0 and the closed convex hull in L1(G) of the left translates λ(g)f equals |∫f|.|$|E
+5000|$|... for <b>any</b> species <b>F.</b> The {{cycle index}} series follows these rules for {{combinatorial}} operations on species F and G: ...|$|R
+2500|$|... for <b>any</b> map <b>f</b> between objects T, T of Cris(X/S), {{the natural}} map from f*F(T) to F(T) is an isomorphism.|$|R
+5000|$|... #Caption: The {{commutativity}} of this diagram is {{the universality}} of the projection π, for <b>any</b> map <b>f</b> and set X.|$|R
+5000|$|For {{the case}} where J(t) takes a more general state space the {{evolution}} of X(t) is governed by J(t) {{in the sense that}} for <b>any</b> <b>f</b> and g we require ...|$|E
+5000|$|... so that A is dissipative. The {{ordinary}} {{differential equation}} u &minus; λu = f, u(1) = 0 {{has a unique}} solution u in H1(1; R) for <b>any</b> <b>f</b> in L2(1; R), namely ...|$|E
+5000|$|... for any a, b in R and <b>any</b> <b>f,</b> g in R''''X. Additionally, {{the formal}} {{derivative}} has {{many of the}} properties of the usual derivative of calculus. For example, the product rule is valid: ...|$|E
+5000|$|... for <b>any</b> map <b>f</b> between objects T, T&prime; of Cris(X/S), {{the natural}} map from f*F(T) to F(T&prime;) is an isomorphism.|$|R
+3000|$|Now, for <b>any</b> u∈ <b>F,</b> define [...] u _∗= ([...] ∫_ 0 ^TV^-(t)u^ 2 (t) dt [...]) ^ 1 / 2. We {{claim that}} (F,· _∗) is a normed space. In fact, for <b>any</b> u∈ <b>F</b> and k∈R, obviously, [...] u _∗> 0 and [...] ku _∗= k [...] u _∗. In addition, if [...] u _∗= 0, then {{the fact that}} supp u⊂Ω_ 2 implies that u(t)= 0,t∈ [0,T], namely u= 0.|$|R
+2500|$|When 0 < p ≤ 1, <b>any</b> element <b>f</b> of Hp has {{an atomic}} {{decomposition}} as a convergent infinite combination of Hp-atoms, ...|$|R
+5000|$|Given a ring {{homomorphism}} R → S of commutative {{rings and}} an S-module M, an R-linear map θ: S → M {{is called a}} derivation if for <b>any</b> <b>f,</b> g in S, θ(f g) [...] f θ(g) + θ(f) g.|$|E
+50|$|P/poly {{contains}} both P and BPP (Adlemans theorem). It {{also contains}} some undecidable problems, {{such as the}} unary version of every undecidable problem, including the halting problem. Because of that, it is not contained in DTIME (f(n)) or NTIME (f(n)) for <b>any</b> <b>f.</b>|$|E
+5000|$|... {{proved that}} the limit of an/n exists, and has {{absolute}} value less than 1 unless f is a Koebe function. In particular this showed that for <b>any</b> <b>f</b> there can be at most {{a finite number of}} exceptions to the Bieberbach conjecture.|$|E
+5000|$|<b>Any</b> smooth {{function}} <b>f</b> with compact support is in S(Rn). This is clear since <b>any</b> derivative of <b>f</b> is continuous and supported in {{the support of}} f, so (xαDβ) f has a maximum in Rn by the extreme value theorem.|$|R
+5000|$|For <b>any</b> {{continuous}} function <b>f,</b> if [...] then [...] In fact, <b>any</b> real-valued function <b>f</b> is continuous if {{and only if}} it preserves the limits of sequences (though this is not necessarily true when using more general notions of continuity).|$|R
+3000|$|... [...]), it is a monotonically {{increasing}} function of T which vanishes in zero. Accordingly, for <b>any</b> function <b>F,</b> the minimal value of [...]...|$|R
+5000|$|... for [...] and <b>any</b> <b>f</b> in V*. This expresses s as a {{reflection}} in the hyperplane [...] One has the fundamental chamber , this has faces the so-called walls, [...] The other chambers {{can be obtained from}} [...] by translation: they are the [...] for [...]|$|E
+5000|$|Hence, A is a {{dissipative}} operator. Furthermore, {{since there}} is a solution (almost everywhere) in D to [...] for <b>any</b> <b>f</b> in H, the operator A is maximally dissipative. Note that {{in a case of}} infinite dimensionality like this, the range can be the whole Banach space even though the domain is only a proper subspace thereof.|$|E
+50|$|If K is a field, a {{valuation}} v {{is a group}} homomorphism {{from the}} multiplicative group K* to a totally ordered abelian group G such that, for <b>any</b> <b>f,</b> g in K with f + g nonzero, v(f + g) ≥ min{v(f), v(g)}. The valuation ring of v is the subring of K consisting of zero and all nonzero f such that v(f) ≥ 0.|$|E
+3000|$|... as a {{function}} of latitude x. This is achieved by an inverse procedure, as follows. For <b>any</b> given <b>f</b> (denoted as f [...]...|$|R
+50|$|Gennaro et al. {{defined a}} verifiable {{computation}} scheme for <b>any</b> function <b>F</b> using Yao’s Garbled Circuit {{combined with a}} fully homomorphic encryption system.|$|R
+5000|$|... where (r, θ, φ) are the spherical {{coordinates}} {{defined by the}} equations (...) [...] By straightforward calculations one gets that for <b>any</b> function <b>f</b> ...|$|R

@@ -1,0 +1,5 @@
+3|0|Public
+5000|$|<b>Card</b> <b>Reader-punch</b> [...] - [...] {{despite its}} name this was {{actually}} an attachment for an IBM 129 keypunch to provide punched card input and output.|$|E
+5000|$|... 1952: Bull Gamma 3 introduced. An {{electronic}} calculator with delay-line memory, programmed by {{a connection}} panel, that {{was connected to}} a tabulator or <b>card</b> <b>reader-punch.</b> The Gamma 3 had greater capacity, greater speed, and lower rentals than competitive products.|$|E
+50|$|The Model 25 had a {{standard}} attachment for connection of a 1052 Model 7 console printer-keyboard, {{which was used}} as the operator console.Optionally, the Model 25 could have {{a standard}} System/360 I/O channel, that could be either a byte-multiplexor or a selector channel. For the most commonly used peripherals, such as a 2540 or 2560 <b>card</b> <b>reader-punch,</b> a 1403 printer, or 2311 or 2314 disk drives, optional internal attachments were provided. These attachments connected directly to their respective peripherals, and would appear to the operating system as if the peripherals were channel-attached.|$|E
+

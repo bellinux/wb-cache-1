@@ -1,0 +1,4 @@
+1|2|Public
+5000|$|... #Caption: Comparison of the {{oscillators}} by Johnson (with an <b>alloyed</b> <b>transistor,</b> length: 10 mm, width: 1.6 mm) and Kilby (with mesa transistor).|$|E
+25|$|CADET used 324 {{point-contact}} transistors {{provided by}} the UK company Standard Telephones and Cables; 76 junction transistors {{were used for the}} first stage amplifiers for data read from the drum, since point-contact transistors were too noisy. From August 1956 CADET was offering a regular computing service, during which it often executed continuous computing runs of 80 hours or more. Problems with the reliability of early batches of point contact and <b>alloyed</b> junction <b>transistors</b> meant that the machine's mean time between failures was about 90minutes, but this improved once the more reliable bipolar junction transistors became available.|$|R
+

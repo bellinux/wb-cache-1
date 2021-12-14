@@ -1,0 +1,37 @@
+159|1|Public
+5|$|CSS parsing: A {{number of}} illegal CSS {{statements}} {{are present in}} Acid2 to test error handling. Standards-compliant browsers are expected to handle these errors as the CSS specification directs. This helps ensure <b>cross-browser</b> compatibility by making all browsers treat CSS with {{the same level of}} strictness, so that what works in one browser should not cause errors in another.|$|E
+25|$|Mozilla Persona was a secure, <b>cross-browser</b> website {{authentication}} mechanism which allows a user {{to use a}} single username and password (or other authentication method) to log into multiple sites. Mozilla Persona shut down on November 30, 2016.|$|E
+2500|$|... jQuery is {{a popular}} JavaScript library {{designed}} to simplify DOM-oriented client-side HTML scripting along with offering <b>cross-browser</b> compatibility because various browsers respond differently to certain vanilla JavaScript code.|$|E
+5000|$|Jessie - A {{repository}} of <b>cross-browser</b> functions with builder to create custom <b>cross-browser</b> libraries ...|$|E
+5000|$|Elimination of <b>cross-browser</b> incompatibilities: The JavaScript {{engines of}} {{different}} browsers differ slightly so JavaScript code {{that works for}} one browser may not work for another. Like other JavaScript toolkits, jQuery handles all these <b>cross-browser</b> inconsistencies and provides a consistent interface that works across different browsers.|$|E
+50|$|Adobe BrowserLab was {{a service}} that enabled <b>cross-browser</b> testing by {{producing}} screenshots of websites from various web browsers across different platforms (Windows and OS X are currently supported). Screenshots could be compared side-by-side or overlaid upon one another, with diagnostic tools to help discover <b>cross-browser</b> differences.|$|E
+5000|$|<b>Cross-browser</b> compatibility, making {{websites}} work in all browsers ...|$|E
+5000|$|<b>Cross-browser</b> {{testing for}} Internet Explorer, Firefox, Chrome, Safari ...|$|E
+5000|$|Multi-browser (not to be {{confused}} with <b>cross-browser)</b> support ...|$|E
+5000|$|Deep support (including <b>cross-browser</b> tips) for JavaScript, HTML, CSS ...|$|E
+5000|$|<b>Cross-browser</b> drag & drop {{support for}} file uploads/changes, and Follow/Share buttons ...|$|E
+5000|$|CSS {{declarations}} remove {{margins and}} standardize <b>cross-browser</b> rendering on common elements.|$|E
+5000|$|<b>Cross-browser</b> test {{execution}} - Internet Explorer, Firefox, Chrome and Safari (web browser) ...|$|E
+50|$|Windmill is a cross-platform, <b>cross-browser</b> {{software}} testing framework, primarily used for testing Web applications.|$|E
+5000|$|The Ample SDK {{open-source}} GUI framework {{provides a}} <b>cross-browser</b> implementation of XUL in JavaScript.|$|E
+5000|$|Window: Provides a <b>cross-browser</b> {{interface}} to client-specific information, such as {{the dimensions}} of the window.|$|E
+5000|$|Unlike {{the older}} [...] tag, the [...] tag needs workarounds {{to write a}} <b>cross-browser</b> HTML document.|$|E
+5000|$|<b>Cross-browser</b> XUL (supporting a desktop-like UI), the XML user {{interface}} markup language {{developed by the}} Mozilla project.|$|E
+50|$|More recently, JavaScript {{libraries}} such as jQuery have abstracted away many of {{the day-to-day}} difficulties in <b>cross-browser</b> DOM manipulation.|$|E
+5000|$|Brower Compatibility - check <b>cross-browser</b> {{compatibility}} of HTML, CSS and JavaScript (i.e. find {{code that}} doesn't work in all browsers) ...|$|E
+50|$|With {{the advent}} of <b>cross-browser</b> JavaScript {{libraries}} such as jQuery, developers can invoke XMLHttpRequest functionality without coding directly to the API.|$|E
+5000|$|Helps manage XMLHttpRequest {{transactions}} in a <b>cross-browser</b> fashion. It has integrated support for form posts, error handling, callbacks and file uploading.|$|E
+5000|$|Scalix Web Access, an AJAX-based <b>cross-browser,</b> {{cross-platform}} email and calendaring client {{that combines}} desktop email functionality with {{the convenience of}} a browser ...|$|E
+5000|$|Use Base after Reset {{to provide}} a consistent, <b>cross-browser</b> {{replacement}} for the standard browser CSS rules to which web developers are accustomed.|$|E
+50|$|Nowadays, {{the company}} offers four main {{products}} that are flexible, cross-platform and <b>cross-browser</b> JS/HTML5 charting libraries supporting interactivity, real-time updates, and multi-level drill-downs.|$|E
+50|$|GWT {{emphasizes}} reusable {{approaches to}} common web development tasks, namely asynchronous remote procedure calls, history management, bookmarking, UI abstraction, internationalization, and <b>cross-browser</b> portability.|$|E
+50|$|KaTeX is a <b>cross-browser</b> JavaScript library that {{displays}} {{mathematical notation}} in web browsers. It puts special emphasis in being fast {{and easy to}} use.|$|E
+5000|$|The Manager {{application}} works <b>cross-browser</b> and cross-platform, including Firefox, Safari, and Internet Explorer on Windows, Mac OS X (Firefox and Safari), and Linux (Firefox).|$|E
+5000|$|Allows you {{to create}} <b>cross-browser,</b> pixel perfect layouts with little effort by {{providing}} a fixed layout containing, top, bottom, left, right and center layout units.|$|E
+5000|$|Dojo widgets are {{components}} — comprising JavaScript code, HTML markup, and CSS style declarations — {{that provide}} multi-browser (not {{to be confused}} with <b>cross-browser),</b> interactive features: ...|$|E
+5000|$|This event {{handling}} model was introduced by Netscape Navigator, and remains the most <b>cross-browser</b> model [...] There are two model types: inline model and traditional model.|$|E
+5000|$|... \v {{vertical}} tab (IE < 9 treats '\v' as 'v' {{instead of a}} {{vertical tab}} ('\x0B'). If <b>cross-browser</b> compatibility is a concern, use \x0B instead of \v.) ...|$|E
+50|$|Shadertoy.com is a <b>cross-browser</b> online {{community}} and tool for creating and sharing shaders through WebGL, used both {{for learning and}} teaching 3D computer graphics in a web browser.|$|E
+50|$|While {{designers}} use the tool, Webflow automatically generates W3C standards-compliant HTML, CSS, and JavaScript. Based on Twitter's Bootstrap web development framework, Webflow's code is cross-device and <b>cross-browser</b> compatible.|$|E
+5000|$|... jQuery is {{a popular}} JavaScript library {{designed}} to simplify DOM-oriented client-side HTML scripting along with offering <b>cross-browser</b> compatibility because various browsers respond differently to certain vanilla JavaScript code.|$|E
+50|$|MathJax is a <b>cross-browser</b> JavaScript library that {{displays}} {{mathematical notation}} in web browsers, using MathML, LaTeX and ASCIIMathML markup. MathJax is released as open-source software under the Apache License.|$|E

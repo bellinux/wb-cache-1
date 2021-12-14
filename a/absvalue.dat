@@ -1,0 +1,3 @@
+1|0|Public
+40|$|ABSTRACT A {{practical}} {{procedure is}} presented for {{an extension of}} quantifier-free Presburger arithmetic that permits arbitrary unmterpreted predicate and function symbols This theory includes many of the formulas one tends to encounter in program venficatlon and is powerful enough to encode the semantics of array operators as well as MAX, MIN, and <b>ABSVALUE</b> An implementation f the procedure {{has proved to be}} of great value in a program verlficauon system developed at SRI for the United States Air Forc...|$|E
+

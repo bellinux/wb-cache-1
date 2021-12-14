@@ -1,0 +1,3 @@
+1|0|Public
+50|$|<b>Busy</b> <b>override</b> is a {{function}} of the private branch exchange that allows the calling party to override the busy signal on the called party in order to break into the ongoing conversation. Before breaking in most PBX announce the incoming call by a distinctive sound signal or tone, but in most cases this can be disabled by software. The <b>Busy</b> <b>override</b> function was originally intended to allow the called party to receive a high priority, implying that the call is very important, and should be handled first.|$|E
+

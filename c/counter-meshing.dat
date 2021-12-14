@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper {{discusses}} the design, fabrication {{and testing of}} a surface micromachined <b>Counter-Meshing</b> Gears (CMG) discrimination device which functions as a mechanically coded lock, A 24 bit code is input to unlock the device. Once unlocked, the device provides a path for an energy or information signal {{to pass through the}} device. The device is designed to immediately lock up if any portion of the 24 bit code is incorrect. The motivation for the development of this device is based on occurrences referred to as High Consequence Events, A High Consequence Event is an event where an inadvertent operation of a system could result in the catastrophic loss of life, property, or damage to the environment...|$|E
+

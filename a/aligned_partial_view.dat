@@ -1,0 +1,37 @@
+0|1034|Public
+40|$|Abstract — In {{this paper}} a novel local surface {{descriptor}} is proposed {{and applied to}} the problem of <b>aligning</b> <b>partial</b> <b>views</b> of a 3 D object. The descriptor is based on taking “snapshots” of the surface over each point using a virtual camera oriented perpendicularly to the surface. This representation has the advantage of imposing minimal loss of information, be robust to self-occlusions and also be very efficient to compute. Then, we describe an efficient search technique to deal with the rotation ambiguity of our representation, and experimentally demonstrate the benefits of our approaches which are pronounced especially when we align views with small overlap. Index Terms — Surface matching, object recognition, partially overlapping surface...|$|R
+40|$|In this paper, {{we propose}} a novel method for object {{discovery}} and dense modelling in RGB-D image sequences using motion cues. We develop our method as a building block for active object perception, such that robots {{can learn about}} the environment through perceiving the effects of actions. Our approach simultaneously segments rigid-body motion within key views, and discovers objects and hierarchical relations between object parts. The poses of the key views are optimized in a graph of spatial relations to recover the rigid-body motion trajectories of the camera {{with respect to the}} objects. In experiments, we demonstrate that our approach finds moving objects, <b>aligns</b> <b>partial</b> <b>views</b> on the objects, and retrieves hierarchical relations between the objects. ...|$|R
+40|$|FIGURE 2. Semi-diagrammatic {{views of}} the head pore {{patterns}} from the holotype of Apogonichthyoides erdmanni. A. <b>Partial</b> <b>view</b> of the supraorbital pores {{on the left side}} of the head. B. <b>Partial</b> <b>view</b> of the right side infraorbital pores minus the cheek and preopercle, reversed, and <b>partial</b> <b>view</b> of maxilla. C Ventral view of the left lower jaw. so = supraorbital, io = infraorbital, me = mental, and ar = articular...|$|R
+40|$|AbstractWe {{consider}} {{the manipulation of}} hierarchically-structured documents within a complex workflow system. Such a system may consist of several subsystems distributed over a computer network. These subsystems can concurrently update <b>partial</b> <b>views</b> of the document. At some points in time we need to reconcile the various local updates by merging the <b>partial</b> <b>views</b> into a coherent global document. For that purpose, we represent the potentially-infinite set of documents compatible with a given <b>partial</b> <b>view</b> as a coinductive data structure. This set is a regular set of trees that can be obtained as {{the image of the}} <b>partial</b> <b>view</b> of the document by the canonical morphism (anamorphism) associated with a coalgebra (some kind of tree automaton). Merging <b>partial</b> <b>views</b> then amounts to computing the intersection of the corresponding regular sets of trees which can be obtained using a synchronization operation on coalgebras...|$|R
+40|$|<b>Aligned</b> and {{concatenated}} <b>partial</b> {{sequences of}} COI and 28 S rDNA: Explanation note: <b>Aligned</b> and concatenated <b>partial</b> sequences of COI and 28 S rDNA in nexus format. <b>Aligned</b> <b>partial</b> sequences of COI and 28 S rDNA from each acanthocephalan population have been concatenated. Gaps are indicated by '-'. The first 585 characters in each block correspond to COI {{and the remainder}} to 28 S rDNA. The file contains data for all nine Echinorhynchus samples and the outgroup taxon, Acanthocephalus lucii. This nexus file was used in all phylogenetic analyses...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Boulbon with Saint-Marcellin Chapel ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Lappenberg with Kehrwiederturm tower.|$|R
+30|$|The {{general idea}} of Newscast is as follows: in Newscast, each node {{maintains}} a <b>partial</b> <b>view</b> that is constituted of a fixed-size set of peer descriptors. A peer descriptor {{is composed of}} the information of the address of a node, a timestamp identifying when the descriptor is created, and application specific information. Each node periodically exchanges and merges its <b>partial</b> <b>view</b> with a randomly selected node to get an up-to-date <b>partial</b> <b>view</b> and a better approximation of the target topology. More information {{can be found in}} Jelasity et al.[26].|$|R
+5000|$|... #Caption: Syntopia, 2007, spatial collage, <b>partial</b> <b>view,</b> Kunstmuseum Bonn ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Fayetteville's locally famous Dickson Street.|$|R
+5000|$|... #Caption: <b>partial</b> <b>view</b> of grounds, Peacekeeping Monument, Ottawa, Canada ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Hanabanilla Lake from Hanabanilla hotel.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Ntemndzem, Mmuock-Leteh, Southwest Region, Cameroon ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the Bodmer Foundation (Cologny, Switzerland).|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the Lucien-Brault {{building}} in Gatineau ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the {{petrochemical}} {{complex at}} Puertollano.|$|R
+5000|$|... #Caption: [...] <b>Partial</b> <b>view</b> of Cajamarca from Santa Apolonia Hill ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> {{from natural}} park of Salinas y Arenales.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Armenian mosaic with {{inscription}} at top.|$|R
+5000|$|... #Caption: <b>partial</b> <b>view</b> of Lake Yliki, {{north of}} Thiva, Greece.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Lisbon, looking {{towards the}} Tagus River.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Praça do Relógio in {{downtown}} Taguatinga ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the Italian Gardens {{behind the}} house.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the Split of Life installation, 1985 ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of USOR with Mt. Rainier in {{background}} ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of west {{profile and}} south elevation, 2015 ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view,</b> Eberly College of Business and Information Technology ...|$|R
+5000|$|... #Caption: A <b>partial</b> <b>view</b> of the club's trophy room at J-Museum.|$|R
+5000|$|... #Caption: Boston City Hall, with <b>partial</b> <b>view</b> of Faneuil Hall, 1981 ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Arequipa, with Misti volcano in the left.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Gulshan & Mohakhali {{areas of}} Gulshan Thana ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Hanabanilla lake from Rio Negro {{mountain}} top.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Ohel Shlomo, {{with former}} {{courtyard}} in foreground.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Pipmuacan Reservoir {{from the}} International Space Station ...|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of Sanhedria Cemetery, with Shmuel HaNavi neighborhoodin background.|$|R
+5000|$|... #Caption: <b>Partial</b> <b>view</b> of the [...] "Children's Republic" [...] theme park.|$|R

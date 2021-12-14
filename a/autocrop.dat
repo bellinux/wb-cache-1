@@ -1,0 +1,3 @@
+1|0|Public
+50|$|Basic {{functions}} such as {{crop and}} rotate available alongside more advanced features such as red-eye removal and versioning. The rotate function allows for movements in single degree increments with <b>autocrop,</b> not just 90-degree adjustment. Color adjustments are supported with a histogram. They include an auto- improve and individual brightness, contrast, hue, saturation, and temperature.|$|E
+

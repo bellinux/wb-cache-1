@@ -1,0 +1,37 @@
+0|5467|Public
+5000|$|A: Fill {{the most}} {{significant}} (leftmost) <b>bits</b> <b>with</b> the value of m. Fill the remaining (y + 1) <b>bits</b> <b>with</b> zeros.|$|R
+5000|$|S: Fill {{the most}} {{significant}} <b>bits</b> <b>with</b> the value of (&minus;m) in two's complement notation. Fill the remaining (y + 1) <b>bits</b> <b>with</b> zeros.|$|R
+5000|$|P: Fill {{the most}} {{significant}} x <b>bits</b> <b>with</b> zeros. To the right of this, append the value of r. Fill the least significant (rightmost) <b>bit</b> <b>with</b> a zero.|$|R
+50|$|Add {{a single}} <b>bit</b> <b>with</b> value 1 {{to the end}} of the data. Then if {{necessary}} add <b>bits</b> <b>with</b> value 0 {{to the end of}} the data until the padded data is a multiple of n.|$|R
+50|$|A PSNR based HEVC {{performance}} comparison {{for still}} image compression {{was done in}} April 2013 by Nokia. HEVC has a larger performance improvement for higher resolution images than lower resolution images and a larger performance improvement for lower bit rates than higher bit rates. For lossy compression {{to get the same}} PSNR as HEVC took on average 1.4× more <b>bits</b> <b>with</b> JPEG 2000, 1.6× more <b>bits</b> <b>with</b> JPEG-XR, and 2.3× more <b>bits</b> <b>with</b> JPEG.|$|R
+3000|$|The {{convolutional}} code of rate 1 / 2 and 16 -QAM Hierarchical Modulation is employed for transmission. The data <b>bits</b> <b>with</b> higher priority and lower priority are {{convolutional code}}d and padded <b>with</b> parity <b>bits.</b> The coded <b>bits</b> <b>with</b> high priority {{are used to}} select the base bits in 16 -QAM constellation and the coded <b>bits</b> <b>with</b> low priority are used to select the refinement bits in the constellation. The average distances of the base bits and the refinement bits can be tuned {{in order to give}} an optimized overall image quality (all save the [...]...|$|R
+5000|$|... #Caption: Magnetic-core memory, 18×24 <b>bits,</b> <b>with</b> a US quarter ...|$|R
+500|$|... {{and those}} of {{intermediate}} width represent data <b>bits</b> <b>with</b> value1.|$|R
+5000|$|... #Caption: An antique curb <b>bit</b> <b>with</b> pelham rein {{attachment}} points ...|$|R
+5000|$|... #Caption: A classic Dee Ring snaffle <b>bit</b> <b>with</b> single jointed {{mouthpiece}} ...|$|R
+5000|$|LAPDm {{frames are}} always 184 <b>bits,</b> <b>with</b> {{segmentation}} for larger messages.|$|R
+50|$|Talk a <b>bit</b> <b>with</b> the cat.:He is {{the most}} {{sensitive}} one here.|$|R
+5000|$|... #Caption: A <b>bit</b> <b>with</b> a sweet iron {{mouthpiece}} {{with added}} copper inlays ...|$|R
+5000|$|Table of offset binary {{for four}} <b>bits,</b> <b>with</b> twos {{complement}} for comparison ...|$|R
+5000|$|... "Matching <b>Bits</b> <b>with</b> the Computer," [...] Psychology Today 15, p 108, June 1981.|$|R
+5000|$|Deciphering {{combines}} the same key <b>bits</b> <b>with</b> the ciphertext {{to reconstruct the}} plaintext: ...|$|R
+5000|$|... #Caption: A direct {{pressure}} snaffle <b>bit</b> <b>with</b> single-jointed mouthpiece and stylized bit rings.|$|R
+50|$|Disadvantages: It is {{more easily}} pulled through the mouth than a <b>bit</b> <b>with</b> cheeks.|$|R
+50|$|She co-presented the Channel 4 TV {{programme}} <b>Bits</b> <b>with</b> Aleks Krotoski and Emily Booth.|$|R
+50|$|In {{the diagram}} above, {{the red and}} yellow bars {{indicate}} {{the presence of the}} 100 Hz subcarrier,with yellow representing the higher strength subcarrier (−15 dB referenced to 100% modulation)and red the lower strength subcarrier (−30 dB referenced to 100% modulation).The widest yellow bars represent the markers,the narrowest represent data <b>bits</b> <b>with</b> value 0,and those of intermediate width represent data <b>bits</b> <b>with</b> value 1.|$|R
+5000|$|... #Caption: [...] Example of Dadda {{reduction}} on 8x8 multiplier. <b>Bits</b> <b>with</b> lower weight are rightmost.|$|R
+5000|$|The {{world can}} be {{resolved}} into digital <b>bits,</b> <b>with</b> each <b>bit</b> made of smaller bits.|$|R
+5|$|If the {{subcarrier}} {{is reduced}} 200ms past the second, this indicates a data <b>bit</b> <b>with</b> value zero.|$|R
+50|$|Internal {{banks are}} {{increased}} to 16 (4 bank select <b>bits),</b> <b>with</b> up to 8 ranks per DIMM.|$|R
+30|$|Finally, {{the secret}} {{data can be}} {{obtained}} by transforming the secret symbols to binary <b>bits</b> <b>with</b> base 2.|$|R
+50|$|A {{hole saw}} usually {{attaches}} to a mandrel, basically a drill <b>bit</b> <b>with</b> threads {{to secure the}} saw.|$|R
+50|$|During a leap second, bit 59 (a marker <b>bit</b> <b>with</b> a phase-modulated code of 0) is {{transmitted}} again.|$|R
+50|$|The {{standard}} {{size of a}} byte was effectively set at eight <b>bits</b> <b>with</b> the S/360 and nine-track tape.|$|R
+5000|$|... #Caption: A one-ear or [...] "slip-ear" [...] style western bridle <b>with</b> curb <b>bit,</b> <b>with</b> added silver for show.|$|R
+5000|$|If the {{subcarrier}} {{is reduced}} 200 ms past the second, this indicates a data <b>bit</b> <b>with</b> value zero.|$|R
+5000|$|Suzie Sorority of the Silent Majority - clueless hippie {{college student}} who ended each <b>bit</b> <b>with</b> [...] "Rah!".|$|R
+5000|$|The initial {{character}} TS encodes {{the convention}} used for encoding of the ATR, and further communications {{until the next}} reset. In direct inverse convention, <b>bits</b> <b>with</b> logic value [...] are transferred as a High voltage (H) a Low voltage (L); <b>bits</b> <b>with</b> logic value [...] are transferred as L H; and least-significant bit of each data byte is first (resp. last) in the physical transmission by the card.|$|R
+5000|$|Barbados has {{a number}} of Bilateral Investment Treaties (<b>BITs)</b> <b>with</b> a growing list of nations. Some of which include: ...|$|R
+5000|$|If {{power is}} reduced for one-fifth {{of a second}} (0.2 s), this is a data <b>bit</b> <b>with</b> value zero.|$|R
+5000|$|... is {{enumerated}} in {{the lower}} three <b>bits,</b> <b>with</b> the fourth <b>bit</b> as a flag for RLE. Some possible values are: ...|$|R
+25|$|In {{a bonfire}} this {{afternoon}} the gambling paraphernalia that was flammable was burned. The remainder was hacked to <b>bits</b> <b>with</b> axes....|$|R

@@ -1,0 +1,37 @@
+0|10000|Public
+5000|$|... {{where the}} co{{latitude}} values are <b>in</b> <b>radians.</b> For a latitude measured in degrees, the colatitude <b>in</b> <b>radians</b> may be calculated as follows: ...|$|R
+30|$|VT α β are the {{velocity}} of the aircraft in m/s, the angle of attack <b>in</b> <b>radians</b> and the sideslip angle <b>in</b> <b>radians,</b> respectively.|$|R
+2500|$|... for {{virtually}} any well-behaved function [...] of dimensionless argument , where [...] is the angular frequency (<b>in</b> <b>radians</b> per second), and [...] is the wave vector (<b>in</b> <b>radians</b> per meter).|$|R
+5000|$|... where [...] is the wave's angular {{frequency}} (usually expressed <b>in</b> <b>radians</b> per second), and [...] is the angular wavenumber (usually expressed <b>in</b> <b>radians</b> per meter). The phase velocity is: [...]|$|R
+3000|$|... 0) is {{the center}} of the function, ω is the radial {{frequency}} <b>in</b> <b>radians</b> per unit length, and θ is the orientation of the Gabor functions <b>in</b> <b>radians.</b> The κ is defined by [...]...|$|R
+5000|$|... {{through a}} device or {{transmission}} medium, where [...] {{is the total}} phase shift <b>in</b> <b>radians,</b> and [...] is the angular frequency <b>in</b> <b>radians</b> per unit time, equal to , where [...] is the frequency (hertz if group delay is measured in seconds).|$|R
+50|$|The {{result is}} <b>in</b> <b>radians.</b>|$|R
+5000|$|Angular {{frequency}} {{is commonly}} measured <b>in</b> <b>radians</b> per second (rad/s) but, for discrete-time signals, {{can also be}} expressed as radians per sample time, which is a dimensionless quantity. Angular frequency (<b>in</b> <b>radians)</b> is larger than regular frequency (in Hz) {{by a factor of}} 2π.|$|R
+5000|$|... is the {{exponential}} decay constant (<b>in</b> <b>radians</b> per second), and ...|$|R
+50|$|It is {{the fixed}} {{point of the}} cosine {{function}} (<b>in</b> <b>radians).</b>|$|R
+25|$|In general, mathematically {{important}} {{relationships between}} the sine and cosine functions and the exponential function (see, for example, Euler's formula) are substantially simplified when angles are expressed <b>in</b> <b>radians,</b> rather than <b>in</b> degrees, grads or other units. Therefore, in most branches of mathematics beyond practical geometry, angles are generally assumed to be expressed <b>in</b> <b>radians.</b>|$|R
+2500|$|... is {{the wave}} number (<b>in</b> <b>radians</b> per meter) for a {{wavelength}} λ, ...|$|R
+5000|$|... = {{difference}} in longitude {{from the central}} meridian, <b>in</b> <b>radians,</b> positive eastward ...|$|R
+5000|$|... is {{the wave}} number (<b>in</b> <b>radians</b> per meter) for a {{wavelength}} λ, ...|$|R
+5000|$|Formulas for the Web Mercator are {{fundamentally}} {{the same as}} for the standard spherical Mercator, but before applying zoom, the [...] "world coordinates" [...] are adjusted such that the upper left corner is (0, 0) and the lower right corner is (256, 256):where λ is the longitude <b>in</b> <b>radians</b> and φ is geodetic latitude <b>in</b> <b>radians.</b>|$|R
+5000|$|Setting , , , and [...] <b>in</b> <b>radians</b> per day {{results in}} , also <b>in</b> units of <b>radians</b> per day, about which see the {{relevant}} {{section of the}} mean motion article.|$|R
+50|$|Similarly, angular {{acceleration}} is often measured <b>in</b> <b>radians</b> per second per second (rad/s2).|$|R
+5000|$|... ω is {{the angular}} {{frequency}} or angular speed (measured <b>in</b> <b>radians</b> per second), ...|$|R
+5000|$|... is {{the angle}} of attack <b>in</b> <b>radians,</b> {{measured}} relative to the chord line.|$|R
+5000|$|The {{area of a}} {{triangle}} is equal to its angle defect <b>in</b> <b>radians.</b>|$|R
+2500|$|... where D is {{the driving}} stress, and [...] the ice surface slope <b>in</b> <b>radians.</b>|$|R
+2500|$|... {{where the}} inputs of the {{trigonometric}} functions sine and cosine are given <b>in</b> <b>radians.</b>|$|R
+5000|$|... ω1 and ω2 {{the angular}} {{frequency}} of each wave component, <b>in</b> <b>radians</b> per second.|$|R
+5000|$|... where &tau;D is {{the driving}} stress, and &alpha; the ice surface slope <b>in</b> <b>radians.</b>|$|R
+5000|$|... {{where the}} inputs of the {{trigonometric}} functions sine and cosine are given <b>in</b> <b>radians.</b>|$|R
+5000|$|... ɸ is a co-latitudinal coordinate, {{the angular}} {{separation}} from the north pole <b>in</b> <b>radians.</b>|$|R
+500|$|In general {{relativity}} the perihelion shift , expressed <b>in</b> <b>radians</b> per revolution, is approximately given by: ...|$|R
+2500|$|... k is {{the angular}} {{wavenumber}} <b>in</b> <b>radian</b> per metre, {{related to the}} wavelength λ as ...|$|R
+5000|$|Angular pitch, θN, τ : Angle {{subtended}} by the circular pitch, usually expressed <b>in</b> <b>radians.</b>|$|R
+5000|$|... #Caption: The {{measure of}} angle θ (<b>in</b> <b>radians)</b> is the {{quotient}} of s and r.|$|R
+5000|$|... k is {{the angular}} {{wavenumber}} <b>in</b> <b>radian</b> per metre, {{related to the}} wavelength λ as ...|$|R
+5000|$|... k1 and k2 {{the wave}} number of each wave component, <b>in</b> <b>radians</b> per metre, and ...|$|R
+5000|$|... a =the angular {{velocity}} of the crank or the pulsations <b>in</b> <b>radians</b> degree per second.|$|R
+2500|$|In general {{relativity}} the perihelion shift σ, expressed <b>in</b> <b>radians</b> per revolution, is approximately given by: ...|$|R
+5000|$|The {{size of an}} Einstein ring {{is given}} by the Einstein radius. <b>In</b> <b>radians,</b> it is ...|$|R
+5000|$|... pst-math {{provides}} {{trigonometric functions}} <b>in</b> <b>radians</b> (since PostScript defaults to using degrees) and hyperbolic trigonometric functions.|$|R

@@ -1,0 +1,5 @@
+2|1|Public
+5000|$|... #Caption: Solderless <b>breadboard</b> <b>socket</b> with 400 {{connection}} points ...|$|E
+50|$|A modern {{solderless}} <b>breadboard</b> <b>socket</b> {{consists of}} a perforated block of plastic with numerous tin plated phosphor bronze or nickel silver alloy spring clips under the perforations. The clips are often called tie points or contact points. The number of tie points is often given in the specification of the breadboard.|$|E
+50|$|Design {{engineers}} often {{prefer the}} larger through-hole rather than surface mount parts when prototyping, {{because they can}} be easily used with <b>breadboard</b> <b>sockets.</b> However, high-speed or high-frequency designs may require SMT technology to minimize stray inductance and capacitance in wire leads, which would impair circuit function. Ultra-compact designs may also dictate SMT construction, even in the prototype phase of design.|$|R
+

@@ -1,0 +1,3 @@
+1|0|Public
+3000|$|... [*]Only one channel must be {{assigned}} to a radio. In a hybrid CA, after assigning a channel to a radio, the radio may not switch immediately to the new channel since the node must inform the neighbors about the upcoming switching. Moreover, if a radio is receiving data, the node will not switch {{until the end of}} the data transmission. Therefore, CA must avoid assigning a new channel to a radio before the previous <b>channel</b> <b>assignation</b> took effect.|$|E
+

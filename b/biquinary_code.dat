@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|... #Caption: One {{possible}} binary {{representation of}} <b>biquinary</b> <b>code</b> ...|$|E
+50|$|Generally, each digit is sent as a {{group of}} four bits having the place values 1, 2, 4, and 5. This could be {{considered}} a form of <b>biquinary</b> <b>code.</b> The thousands digit is sent using binary-coded decimal, but with the 1 bit moved {{to the end of the}} group. Except for the 1 bit in the thousands digit, all bits are sent in order from least to most significant. An entire transmission uses twenty bits.|$|E
+

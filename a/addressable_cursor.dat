@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|In computing, an <b>addressable</b> <b>cursor</b> is a cursor which can, through use {{of either}} {{software}} or firmware, be moved (at least theoretically) to any given point {{on the computer screen}} ...|$|E
+5000|$|In Alpha mode, the 4010 {{displays}} 35 {{lines of}} 74 characters. The terminal was [...] "dumb" [...] by {{standards of the}} day, lacking various smart terminal features like <b>addressable</b> <b>cursor</b> positioning. The terminal also lacks any significant buffering, and many operations could lead to data loss. Notably, the carriage return took about 100 to 200 µs, and a screen clear operation much longer than that. It {{was up to the}} host computer to delay further data to avoid it being lost during these periods.|$|E
+

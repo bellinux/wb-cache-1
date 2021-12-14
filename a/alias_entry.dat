@@ -1,0 +1,4 @@
+1|1|Public
+50|$|Note {{that there}} are two kinds of public symbol types, ESDID entries and LDID entries. ESDID entries are CSECTS and DSECTS (Programs, Procedures and Functions, and {{possibly}} Record or Structure declarations) and LDID entries are ENTRY statements (alternative or <b>alias</b> <b>entry</b> points to a CSECT or DSECT). The ESDID numbering space is separate from the LDID numbering space, and thus two different named symbols, one an ESDID and one an LDID can both have the binary value of 0001.|$|E
+5000|$|... derefAliases : Whether and how {{to follow}} <b>alias</b> <b>entries</b> (entries that refer to other entries), ...|$|R
+

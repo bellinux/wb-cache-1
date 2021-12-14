@@ -1,0 +1,3 @@
+1|0|Public
+30|$|Due to {{fact that}} the {{variance}} component estimation of the IMU measurements have been realized practically in the multisensor integrated navigation system, more discussions will be performed here. Because the land vehicle’s dynamics is usually exposed in vertical (Z) <b>axial</b> <b>gyro</b> and the forward (Y) axial accelerometer, the variance estimates for their observables theoretically cast more significant influences on their measurement residuals than {{the ones in the}} other axes. Figure  12 shows the normalized histograms of their measurement residuals.|$|E
+

@@ -1,0 +1,37 @@
+0|10000|Public
+5000|$|... : Scan <b>an</b> <b>integer</b> as <b>a</b> signed number. Similar to , but {{interprets the}} number as {{hexadecimal}} when preceded by [...] and octal when preceded by [...] For example, the string [...] would {{be read as}} 31 using , and 25 using [...] The flag [...] in [...] indicates <b>conversion</b> <b>to</b> <b>a</b> [...] and [...] <b>conversion</b> <b>to</b> <b>a</b> [...]|$|R
+25|$|Convert {{the string}} <b>to</b> <b>an</b> <b>integer</b> (i.e. ignore leading zeroes).|$|R
+5000|$|... #Subtitle level 3: Aliasing <b>to</b> <b>an</b> <b>integer</b> as <b>an</b> {{approximate}} logarithm ...|$|R
+50|$|In {{recreational}} mathematics, <b>an</b> almost <b>integer</b> is {{any number}} {{that is very}} close <b>to</b> <b>an</b> <b>integer.</b> Almost integers are considered interesting when they arise in some {{context in which they}} are unexpected.|$|R
+25|$|Therefore, {{the square}} of an {{irreducible}} fraction cannot be reduced <b>to</b> <b>an</b> <b>integer.</b>|$|R
+500|$|Alias the {{argument}} [...] <b>to</b> <b>an</b> <b>integer,</b> as <b>a</b> way <b>to</b> compute <b>an</b> approximation of ...|$|R
+50|$|In other words, <b>a</b> non-{{positive}} <b>integer</b> x≤0 {{is mapped}} <b>to</b> <b>an</b> even <b>integer</b> −2x, while <b>a</b> positive <b>integer</b> x>0 is mapped <b>to</b> <b>an</b> odd <b>integer</b> 2x−1.|$|R
+5000|$|Round the {{fractional}} solution [...] of the LP <b>to</b> <b>an</b> <b>integer</b> solution [...] of the ILP.|$|R
+2500|$|... {{assigned}} <b>to</b> <b>an</b> <b>integer</b> n modulo 2m, the theta functions can {{be defined}} directly as matrix coefficients: ...|$|R
+5000|$|There {{are many}} ways of {{rounding}} <b>a</b> number y <b>to</b> <b>an</b> <b>integer</b> q. The most common ones are ...|$|R
+5000|$|Type punning {{the number}} <b>to</b> <b>an</b> <b>integer</b> type, {{so as to}} look at the sign bit in the bit pattern; ...|$|R
+3000|$|... is set <b>to</b> <b>an</b> <b>integer</b> pixel {{precision}} <b>to</b> ensure invertibility and {{is set to}} be {{the ceiling}} of the disparity in (33).|$|R
+5000|$|To get {{the mean}} sample scaled up <b>to</b> <b>an</b> <b>integer</b> with [...] {{additional}} bits, {{the sum of}} [...] samples is divided by : ...|$|R
+5000|$|The {{sampling}} period ratio [...] is set <b>to</b> <b>an</b> <b>integer</b> <b>to</b> minimize {{the increase in}} computations.The samples [...] are interpolated from [...] such that ...|$|R
+5000|$|... #Caption: Gregory after <b>conversion</b> <b>to</b> <b>a</b> {{high-speed}} transport.|$|R
+5000|$|... #Caption: Hambleton after <b>conversion</b> <b>to</b> <b>a</b> {{high-speed}} minesweeper.|$|R
+3000|$|Because the RSSI {{observations}} are rounded <b>to</b> <b>an</b> <b>integer,</b> for each possible RSSI observation in this study, the distribution probability {{can be expressed}} as [...]...|$|R
+5000|$|When {{computing}} , {{the string}} [...] resulting from [...] shall be converted <b>to</b> <b>an</b> <b>integer.</b> Note that [...] can {{be greater than}} [...] but not longer.|$|R
+5000|$|... #Caption: USCGC Citrus after <b>conversion</b> <b>to</b> <b>a</b> medium-endurance cutter ...|$|R
+5000|$|... #Caption: Wyoming after <b>conversion</b> <b>to</b> <b>a</b> gunnery {{training}} ship ...|$|R
+5000|$|... #Caption: [...] {{undergoing}} <b>conversion</b> <b>to</b> <b>a</b> {{cruise missile}} submarine ...|$|R
+5000|$|... #Caption: Grouper after <b>conversion</b> <b>to</b> <b>a</b> sonar test submarine.|$|R
+5000|$|... #Caption: Langley after <b>conversion</b> <b>to</b> <b>a</b> {{seaplane}} tender, 1937.|$|R
+5000|$|... #Subtitle level 3: <b>Conversion</b> <b>to</b> <b>a</b> {{high-speed}} transport, 1944 ...|$|R
+5000|$|... #Caption: USS Macomb after <b>conversion</b> <b>to</b> <b>a</b> {{high speed}} minesweeper.|$|R
+5000|$|... #Caption: [...] ca. 1830, after <b>conversion</b> <b>to</b> <b>a</b> three-masted ship-sloop.|$|R
+5000|$|... #Caption: Chitose after <b>conversion</b> <b>to</b> <b>a</b> light carrier in 1944 ...|$|R
+5000|$|IKEA (closed 2017, {{slated for}} <b>conversion</b> <b>to</b> <b>a</b> {{residential}} complex) ...|$|R
+5000|$|... #Subtitle level 2: Closing and <b>conversion</b> <b>to</b> <b>a</b> {{charter school}} ...|$|R
+5000|$|... #Subtitle level 2: Racism and <b>conversion</b> <b>to</b> <b>an</b> anti-racism preacher ...|$|R
+5000|$|... #Subtitle level 3: Federation, merger and <b>conversion</b> <b>to</b> <b>an</b> Academy ...|$|R
+3000|$|... is linear, (10) {{is further}} reduced <b>to</b> <b>an</b> <b>integer</b> linear {{programming}} (ILP) problem {{by removing the}} last constraint. Optimal solution for ILP problems can be obtained numerically.|$|R
+5000|$|Fortran {{also had}} an {{assigned}} goto variant that transfers control <b>to</b> <b>a</b> statement label (line number) which is stored in (assigned <b>to)</b> <b>an</b> <b>integer</b> variable. Jumping <b>to</b> <b>an</b> <b>integer</b> variable {{that had not been}} ASSIGNed to was unfortunately possible, and was a major source of bugs involving assigned gotos. The Fortran [...] statement only allows a constant (existing) line number to be assigned to the integer variable. However, it was possible to accidentally treat this variable as <b>an</b> <b>integer</b> thereafter, for example increment it, resulting in unspecified behavior at [...] time. The following code demonstrates the behavior of the [...] when line i is unspecified: ...|$|R
+25|$|In June 1905 Mascot was {{undergoing}} <b>conversion</b> <b>to</b> <b>an</b> oil-fired boiler.|$|R
+2500|$|Nighthawk <b>conversion</b> <b>to</b> <b>a</b> sesquiplane, {{equipped}} with 185 hp Siddeley Lynx ...|$|R
+5000|$|... #Caption: Spinax {{after her}} <b>conversion</b> <b>to</b> <b>a</b> radar picket submarine, 1947.|$|R

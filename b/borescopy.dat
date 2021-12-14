@@ -1,0 +1,3 @@
+1|0|Public
+40|$|AbstractThe <b>borescopy</b> {{inspection}} {{problem of}} aeroengine interior important part damages such as firebox's burn and corruption, vane's crack, bump, abrade and concave pit, is aimed at. A new system is developed {{to carry out}} 3 D measurement and stereo reconstruction of engine interior damage, in which the borescope of Japanese OLYMPUS Corporation is used as hardware. In the system, functions are implemented, such as image collection, camera calibration, image preprocessing, stereo matching, 3 D measurement and stereo reconstruction. It can provide more detailed inspection and more accurate estimation of engine interior damages. Finally, an example is used to verify the effectivity of the new method...|$|E
+

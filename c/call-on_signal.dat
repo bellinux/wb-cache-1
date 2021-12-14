@@ -1,0 +1,7 @@
+3|4|Public
+50|$|There are {{two types}} of <b>call-on</b> <b>signal</b> (position and color). Both lights are {{normally}} off, and only lit if required. Position lights use two diagonal white lights; color lights are yellow.|$|E
+50|$|A <b>call-on</b> <b>signal</b> is {{installed}} under {{a home or}} shunting signal. The train guided by a <b>call-on</b> <b>signal</b> can proceed under 15 kph mph—25 kph mph on some lines—until it reached the forward train. In stations where two trains use the same track simultaneously—for example, the Yosan Line Matsuyama Station (Ehime) and the Nankai Kōya Line Hashimoto Station (Wakayama)—call-on signals are required to allow two trains on a single block section. However, this is unnecessary if the platform track {{is divided into two}} block sections (for example, the Keihan Main Line Yodoyabashi Station of the Keihan Electric Railway).|$|E
+50|$|Normally, {{only one}} train can enter a block section for safety; however, with this rule a train cannot be coupled with another train. A <b>call-on</b> <b>signal</b> (誘導信号機, yūdō shingōki) permits {{a train to}} enter a section already {{occupied}} by another train to enable coupling.|$|E
+2500|$|... {{additional}} <b>signals</b> (<b>call-on,</b> dwarf, marker, sign, time signals) ...|$|R
+2500|$|... stop (one red light); {{with special}} rules for <b>call-on</b> and timer <b>signals</b> ...|$|R
+

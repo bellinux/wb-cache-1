@@ -1,0 +1,37 @@
+0|10000|Public
+50|$|In general, MAR is a {{parallel}} load register {{that contains the}} next memory <b>address</b> <b>to</b> <b>be</b> manipulated. For example, the next <b>address</b> <b>to</b> <b>be</b> read or written.|$|R
+5000|$|CPY (i, rsp, i, rdp [...] ) = COPY {{indirectly}} {{the contents}} of the source register with <b>address</b> <b>to</b> <b>be</b> found in source-pointer register rsp, into the destination register with <b>address</b> <b>to</b> <b>be</b> found in the destination-pointer register rdp) ...|$|R
+5|$|The {{temperature}} of a beer has {{an influence on}} a drinker's experience; warmer temperatures reveal the range of flavours in a beer but cooler temperatures are more refreshing. Most drinkers prefer pale lager <b>to</b> <b>be</b> <b>served</b> chilled, a low- or medium-strength pale ale <b>to</b> <b>be</b> <b>served</b> cool, while a strong barley wine or imperial stout <b>to</b> <b>be</b> <b>served</b> at room temperature.|$|R
+5000|$|Photocopies {{of these}} cards and {{appropriate}} membership lists with their <b>addresses</b> <b>to</b> <b>be</b> given <b>to</b> the competent authorities.|$|R
+50|$|Another type of spamware <b>is</b> {{software}} used <b>to</b> {{search for}} e-mail <b>addresses</b> <b>to</b> build lists of e-mail <b>addresses</b> <b>to</b> <b>be</b> used either for spamming directly or <b>to</b> <b>be</b> sold <b>to</b> spammers.|$|R
+5000|$|The XEC {{instruction}} {{allows a}} selected instruction {{at a different}} <b>address</b> <b>to</b> <b>be</b> executed without incrementing the program counter.|$|R
+5000|$|Many vendors allow {{discovered}} MAC <b>addresses</b> <b>to</b> <b>be</b> {{authenticated against}} an authentication, authorization and accounting (AAA) server and subsequently filtered.|$|R
+5000|$|Chosen for {{the menu}} <b>to</b> <b>be</b> <b>served</b> <b>to</b> the Spanish Prime Minister Aznar {{at the dinner}} held at the Circolo Savoia in Naples 1998, Villa Massa {{is placed on the}} menu <b>to</b> <b>be</b> <b>served</b> <b>to</b> the Spanish Royal Family ...|$|R
+50|$|Destination {{broadcast}} or host <b>address</b> <b>to</b> <b>be</b> {{used when}} forwarding UDP broadcasts. There {{can be more}} than one helper address per interface.|$|R
+5000|$|Broadcasts - being connectionless, UDP can {{broadcast}} - sent packets can <b>be</b> <b>addressed</b> <b>to</b> <b>be</b> receivable by all devices on the subnet.|$|R
+50|$|Load/Store Units:Allow {{source and}} {{destination}} <b>addresses</b> <b>to</b> <b>be</b> calculated for 16 threads per clock. Load and store the data from/to cache or DRAM.|$|R
+5000|$|CPY (i, rsp, d, rd [...] ) = COPY to destination-register {{indirectly}} {{using the}} source <b>address</b> <b>to</b> <b>be</b> {{found in the}} source-pointer register rsp.|$|R
+50|$|The {{original}} Oddpost servers {{have been}} shut down, however existing Oddpost customers <b>were</b> able <b>to</b> keep their Oddpost email <b>addresses</b> <b>to</b> <b>be</b> used with Yahoo!.|$|R
+5000|$|CPY (d, rs, i, rdp [...] ) = COPY {{contents}} of source-register indirectly into register using destination <b>address</b> <b>to</b> <b>be</b> {{found in the}} destination-pointer register rdp.|$|R
+50|$|The {{assignment}} procedure for global <b>addresses</b> <b>is</b> similar <b>to</b> local <b>address</b> construction. The prefix is supplied from router advertisements on the network. Multiple prefix announcements cause multiple <b>addresses</b> <b>to</b> <b>be</b> configured.|$|R
+50|$|A food taster is {{a person}} that ingests food (or drink, in which case he/she <b>is</b> a cupbearer) <b>to</b> <b>be</b> <b>served</b> <b>to</b> someone else to confirm that it <b>is</b> safe <b>to</b> eat. The person to whom the food <b>is</b> going <b>to</b> <b>be</b> <b>served</b> <b>is</b> usually an {{important}} person (for example, a monarch) or anyone that could be under threat of assassination or harm.|$|R
+5000|$|Over 50 {{companies}} were invoiced, ranging from FTSE 100 corporates including Sainsbury's, media companies including Channel 4, and small independent shops in London. McCrudden charged each {{company for the}} total time he spent {{with them in the}} six week period, which included waiting in line <b>to</b> <b>be</b> <b>served,</b> and sent invoices in the post <b>addressed</b> <b>to</b> each company's finance department.|$|R
+50|$|Soon {{after the}} gallery's naissance, Pochna allowed the gallery's Melrose <b>address</b> <b>to</b> <b>be</b> {{used as a}} {{business}} address for an escort service in order to fund the gallery.|$|R
+50|$|ROF Glascoed {{continued}} <b>to</b> <b>be</b> <b>served</b> by rail until 1993.|$|R
+50|$|The town used <b>to</b> <b>be</b> <b>served</b> by Doune railway station.|$|R
+50|$|Typically, a user has to {{manually}} add {{the sender}} or the sender’s <b>address</b> <b>to</b> {{a list of}} “approved” or “safe senders” within his or her email client for an <b>address</b> <b>to</b> <b>be</b> whitelisted, which is a different process in various email clients.|$|R
+5000|$|Servers that {{implement}} catch-all e-mail will, by definition, {{consider all}} e-mail <b>addresses</b> <b>to</b> <b>be</b> valid and accept them. Like systems that accept-then-bounce, a random non-existent address can detect this.|$|R
+5000|$|... #Caption: The {{cheese on}} top of the kalliopi ready <b>to</b> <b>be</b> <b>served</b> ...|$|R
+50|$|Jersey used <b>to</b> <b>be</b> <b>served</b> by the Normandy-based {{radio station}} Contact 94.|$|R
+50|$|The village used <b>to</b> <b>be</b> <b>served</b> by the now-closed Unstone railway station.|$|R
+5000|$|The {{customers}} or customer segments <b>to</b> <b>be</b> <b>served</b> by the {{new product}} ...|$|R
+50|$|A windowed {{envelope}} is {{a conventional}} envelope {{with a plastic}} (typically film or BOPS Bi-oriented polystyrene films) window to allow the recipient's <b>address</b> <b>to</b> <b>be</b> printed on the paper contained within.|$|R
+5000|$|Two {{distinct}} public IPv4 addresses. Though {{not written}} {{down in the}} official specification, Microsoft Windows clients expect both <b>addresses</b> <b>to</b> <b>be</b> consecutive — the second IPv4 address is for NAT detection ...|$|R
+5000|$|Shortest job first: The {{next job}} <b>to</b> <b>be</b> <b>served</b> <b>is</b> {{the one with}} the {{smallest}} size ...|$|R
+5000|$|If the spammer puts a spamtrap mailbox <b>address</b> {{into the}} <b>TO</b> or CC line, when {{any of the}} other {{addresses}} [...] "reply-all" [...] or forward the message, it will cause that <b>address</b> <b>to</b> <b>be</b> considered spam, too.|$|R
+50|$|Changshou Road Subdistrict <b>is</b> <b>to</b> <b>be</b> <b>served</b> by Line 14 in the future.|$|R
+50|$|Lenox Hill <b>is</b> {{expected}} <b>to</b> <b>be</b> <b>served</b> by NYC Ferry {{starting in}} 2018.|$|R
+50|$|It used <b>to</b> <b>be</b> <b>served</b> by {{a station}} on the {{national}} railway system.|$|R
+5000|$|Cities, towns, and unincorporated areas <b>to</b> <b>be</b> <b>served</b> by {{this area}} code include: ...|$|R
+5000|$|... #Caption: A {{selection}} of wagashi <b>to</b> <b>be</b> <b>served</b> during a Japanese tea ceremony ...|$|R
+5000|$|... #Caption: Ques of {{vehicles}} with people waiting <b>to</b> <b>be</b> <b>served</b> at Samunge, Loliondo.|$|R

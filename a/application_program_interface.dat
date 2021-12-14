@@ -1,0 +1,37 @@
+283|10000|Public
+2500|$|In March 2017, IBM {{announced}} an industry-first initiative to build commercially available universal quantum computing systems called IBM Q. The company also released [...] a new API (<b>Application</b> <b>Program</b> <b>Interface)</b> for the IBM Quantum Experience that enables developers and programmers to begin building interfaces between its existing five quantum bit (qubit) cloud-based quantum computer and classical computers, without needing a deep background in quantum physics.|$|E
+50|$|IDAPI {{stands for}} Integrated Database <b>Application</b> <b>Program</b> <b>Interface</b> or Independent Database <b>Application</b> <b>Program</b> <b>Interface.</b> It was {{originally}} {{a component of}} the Paradox relational database management system. It is now the <b>application</b> <b>program</b> <b>interface</b> of the BDE or Borland Database Engine.|$|E
+5000|$|A {{new edition}} of the Generic Security Services <b>Application</b> <b>Program</b> <b>Interface</b> (GSS-API) {{specification}} [...] "The Kerberos Version 5 Generic Security Service <b>Application</b> <b>Program</b> <b>Interface</b> (GSS-API) Mechanism: Version 2." [...] (RFC 4121).|$|E
+50|$|The Netscape Server <b>Application</b> <b>Programming</b> <b>Interface</b> (NSAPI) is an <b>application</b> <b>programming</b> <b>interface</b> for {{extending}} server software, typically {{web server}} software.|$|R
+5000|$|In computing, Server <b>Application</b> <b>Programming</b> <b>Interface</b> (SAPI) is {{the direct}} module {{interface}} to web servers {{such as the}} Apache HTTP Server, Microsoft IIS, and Oracle iPlanet Web Server. Microsoft uses the term Internet Server <b>Application</b> <b>Programming</b> <b>Interface</b> (ISAPI), and the defunct Netscape web server used the term Netscape Server <b>Application</b> <b>Programming</b> <b>Interface</b> (NSAPI) for the same purpose. [...] In other words, SAPI is an <b>application</b> <b>programming</b> <b>interface</b> (API) provided by the web server to help other developers in extending the web server capabilities.|$|R
+30|$|<b>Application</b> <b>programming</b> <b>interface.</b>|$|R
+5000|$|Generic Security Services <b>Application</b> <b>Program</b> <b>Interface</b> (GSS-API) ...|$|E
+5000|$|... #Article: Generic Security Services <b>Application</b> <b>Program</b> <b>Interface</b> ...|$|E
+5000|$|GSSAPI (Generic Security Services <b>Application</b> <b>Program</b> <b>Interface)</b> ...|$|E
+5000|$|... #Article: Portals network <b>programming</b> <b>application</b> <b>programming</b> <b>interface</b> ...|$|R
+5000|$|ISAPI Internet Server <b>Application</b> <b>Programming</b> <b>Interface</b> (Microsoft) ...|$|R
+50|$|Netscape Plugin <b>Application</b> <b>Programming</b> <b>Interface</b> (NPAPI) is an <b>application</b> <b>programming</b> <b>interface</b> (API) {{that allows}} plugins (more specifically, browser extensions) to be {{developed}} for web browsers. It was first developed for Netscape browsers, starting in 1995 with Netscape Navigator 2.0, but was subsequently adopted by other browsers.|$|R
+50|$|Programs {{integrated}} with IBM MQ use a consistent <b>application</b> <b>program</b> <b>interface</b> (API) across all platforms.|$|E
+5000|$|The user interface, user {{experience}} and <b>application</b> <b>program</b> <b>interface</b> of its cloud-based globalization management system (GMS) ...|$|E
+5000|$|... "Automatic <b>Application</b> <b>Program</b> <b>Interface</b> to a Data Base," [...] (with A.B. Whinston), The Computer Journal, May, 1977.|$|E
+5000|$|<b>Application</b> <b>programming</b> <b>interfaces</b> (APIs), for devices or {{networks}} ...|$|R
+5000|$|... #Subtitle level 2: <b>Application</b> <b>programming</b> <b>interface</b> and apps ...|$|R
+5000|$|... #Subtitle level 3: Accessibility <b>Application</b> <b>Programming</b> <b>Interfaces</b> (APIs) ...|$|R
+5000|$|EBS Spot Ai (<b>application</b> <b>program</b> <b>interface</b> (API) {{between the}} customer’s trading {{system and the}} EBS Spot market) ...|$|E
+5000|$|There are {{two classes}} of {{interfaces}} in the OSE reference model: the <b>application</b> <b>program</b> <b>interface</b> and the external environment interface: ...|$|E
+50|$|The Generic Security Service <b>Application</b> <b>Program</b> <b>Interface</b> (GSSAPI, also GSS-API) is an {{application}} programming interface for programs to access security services.|$|E
+5000|$|TMAPI 2.0 Topic Maps <b>Application</b> <b>Programming</b> <b>Interface</b> (v2.0) ...|$|R
+50|$|DirectSetup {{is part of}} the DirectX <b>application</b> <b>programming</b> <b>interface.</b>|$|R
+5000|$|OpenStep, the {{object-oriented}} <b>application</b> <b>programming</b> <b>interface</b> {{derived from}} NeXTSTEP ...|$|R
+5000|$|RFC 4462, Generic Security Service <b>Application</b> <b>Program</b> <b>Interface</b> (GSS-API) Authentication and Key Exchange for the Secure Shell (SSH) Protocol (May 2006) ...|$|E
+50|$|The GSSAPI {{has been}} {{standardized}} for theC (RFC 2744) language. Java implements the GSSAPIas JGSS,the Java Generic Security Services <b>Application</b> <b>Program</b> <b>Interface.</b>|$|E
+5000|$|Spinlet is also {{developing}} an <b>application</b> <b>program</b> <b>interface</b> (API) for businesses {{to enable them}} integrate the Spinlet service with their own online service delivery platforms.|$|E
+5000|$|... #Subtitle level 2: Standard Waveform <b>Application</b> <b>Programming</b> <b>Interfaces</b> (APIs) ...|$|R
+5000|$|February 2011: blinkx {{introduces}} TV API (<b>Application</b> <b>Programming</b> <b>Interface).</b>|$|R
+5000|$|<b>Application</b> <b>programming</b> <b>interface</b> keys for {{programmatic}} {{access to}} CouchDB database.|$|R
+50|$|Firefox {{supports}} plugins {{based on}} Netscape Plugin <b>Application</b> <b>Program</b> <b>Interface</b> (NPAPI), i.e. Netscape-style plugins. As a side note, Opera and Internet Explorer 3.0 to 5.0 also support NPAPI.|$|E
+50|$|The QSAM <b>application</b> <b>program</b> <b>interface</b> can be {{compared}} with the interface offered by open, read, write and close calls (using file handles) in other operating systems such as Unix and Windows.|$|E
+5000|$|<b>Application</b> <b>Program</b> <b>Interface</b> (API): This service {{allows a}} user {{access to the}} {{contents}} of the exoplanet and host star table and the Kepler candidate table via a URL or command-line-based query.|$|E
+5000|$|Direct3D 10, {{a part of}} Microsoft's DirectX <b>application</b> <b>programming</b> <b>interface</b> ...|$|R
+5000|$|Integrate to {{existing}} applications using documented APIs (<b>application</b> <b>programming</b> <b>interfaces)</b> ...|$|R
+5000|$|... the {{function}} CryptGenRandom provided in Microsoft's Cryptographic <b>Application</b> <b>Programming</b> <b>Interface</b> ...|$|R

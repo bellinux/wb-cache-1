@@ -1,0 +1,3 @@
+1|0|Public
+40|$|The paper {{discusses}} the constituent software modules of a Virtual Distributed Testbed (VDT) which enables <b>cross-system</b> <b>operation</b> and interworking among clusters simulating different Radio Access Technologies (RATs). The heart module of VDT is the Central Controller whose {{role is to}} manage and control the individual simulation clusters. The communication among the VDT modules is achieved by the exchange of SOA...|$|E
+

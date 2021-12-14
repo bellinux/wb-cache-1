@@ -1,0 +1,3 @@
+1|0|Public
+50|$|Resiliency to data {{transport}} attacks. IPCP (node) addresses are internal to a DIF and not {{exposed to}} applications, data connections are dynamically assigned <b>connection-endpoint</b> ids (CEP-ids) that are bound to dynamically assigned ports. Bodappati et al. showed that due to this decoupling of transport port allocation and access control from data synchronization and transfer RINA was much more resilient than TCP/IP to transport-level attacks such as port-scanning, connection opening or data-transfer.|$|E
+

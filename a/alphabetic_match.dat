@@ -1,0 +1,3 @@
+1|0|Public
+40|$|Pairwise {{alignment}} {{is one of}} {{the most}} fundamental tools of bioinformatics and underpins a variety of other, more sophisticated methods of annotation. Pairwise alignment in its most rigorous form uses a method called ‘dynamic programming’, which is highly accurate, but also incredibly costly to compute. In order to align anything other than an exact <b>alphabetic</b> <b>match,</b> the algorithm has to know what it is looking for and how it can evaluate the worth of what it finds. To this end, ‘comparison matrices’ have been created which define a score for every possible match possibility—an effective tally of how well the computational alignment is doing. The software will search for the highest score available...|$|E
+

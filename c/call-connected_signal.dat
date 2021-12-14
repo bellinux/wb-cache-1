@@ -1,0 +1,3 @@
+1|0|Public
+50|$|Note: Call {{set-up time}} is the {{summation}} of: (a) call request time—the time from initiation of a calling signal to the delivery to the caller of a proceed-to-select signal; (b) selection time—the time from the delivery of the proceed-to-select signal until all the selection signals have been transmitted; and (c) post selection time—the time {{from the end of}} the transmission of the selection signals until the delivery of the <b>call-connected</b> <b>signal</b> to the originating terminal.|$|E
+

@@ -1,0 +1,37 @@
+0|10000|Public
+40|$|The {{purpose of}} this study is to develop a {{comprehensive}} methodology for implementing a digital map generalisation system under the object-oriented paradigm. The study is based on the consideration of the theory of map generalisation and the methodology of object-orientation. Object-oriented programming has been recognised as a better programming method for constructing complicated software systems in the sense of less expenditure and greater efficiency. It increases the potentiality to extend software systems and re-uses the resources, though it does not increase computation power. So the object-oriented paradigm is selected for modelling the map generalisation system. The research includes four parts, describing the concept of map, the requirements of a map generalisation system, the object-oriented design method, and the map generalisation system design. Three contributions of the research are: 1. A new cartographical communication model based on digital processes is given. This model is the conceptual fundament to define a static structure of the object-oriented map generalisation system. Based on this model, the map structure in the object-oriented world is defined. In this structure, the map <b>concept</b> is divided <b>into</b> <b>three</b> <b>parts</b> - logical map, graphical map, and dynamic relationships of the map. 2. A conceptual framework for map generalisation with the feature's neighbouring objects is proposed. Recently, the digital map processing is based on the single features. No neighbouring object is considered in every operation. Thus, overlays, congestions, coalescence, and other conflicts appear unexpectedly when the generalisation functions are called. To increase the efficiency in the automated map generalisation, the developed conceptual framework classifies the generalisation operations by the neighbouring relationships. A special example for the line-point relationship is discussed. 3. An object-oriented design method that puts emphasis on dynamic relationships is proposed, according to which, the generalisation tool boxes are designed. 4. Following the above, the model for designing a map generalisation system is fully described, and an example is developed which shows that the proposed method is feasible, and demonstrates the efficiency of the object-oriented paradigm...|$|R
+50|$|J.R. Martin and P.R.R. White's {{approach}} to appraisal in systemic functional linguistics regionalised the <b>concept</b> <b>into</b> <b>three</b> interacting domains: 'attitude', 'engagement' and 'graduation'.|$|R
+50|$|The region divides <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|We divide this proof <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|The {{proof is}} divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|Tawfiq grouped {{his works}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The book {{is split}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|Leaving Poppy {{is split}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The {{novel is}} split <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The story falls broadly <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The {{course is}} split <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|Next, {{we split}} the proof <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The novel {{itself is}} divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The lecture {{course is}} divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The {{calendar}} dial {{is itself}} divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The storyline can roughly {{be divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|The rest of {{this section}} is divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+5000|$|Ohreland's {{population}} is split <b>into</b> <b>three</b> <b>parts</b> (recently, mainly two): ...|$|R
+5000|$|This {{work was}} divided <b>into</b> <b>three</b> <b>parts,</b> as Perrigo explained: ...|$|R
+25|$|Roughly saying, digital IC design can {{be divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|Proof The {{proof of}} the theorem is divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|According to {{geographical}} texture Sarlahi {{district is}} divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|The Gameplay of Without Memory will {{be divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|Larvotto have 9 towers(no tower 4), {{and divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|Roughly saying, digital IC design can {{be divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+5000|$|... #Caption: The Kingdom of Hungary {{was torn}} <b>into</b> <b>three</b> <b>parts</b> (1567) ...|$|R
+5000|$|The {{album is}} split <b>into</b> <b>three</b> <b>parts,</b> each {{containing}} <b>three</b> songs: ...|$|R
+5000|$|Stalin's {{writing is}} divided <b>into</b> <b>three</b> <b>parts,</b> and very {{systematically}} presented: ...|$|R
+5000|$|Sixty Million Frenchmen Can’t Be Wrong {{is divided}} <b>into</b> <b>three</b> <b>parts.</b>|$|R
+30|$|Proof The {{proof of}} the lemma will be split <b>into</b> <b>three</b> <b>parts.</b>|$|R
+50|$|Though {{irregular}} in shape, the talus can be subdivided <b>into</b> <b>three</b> <b>parts.</b>|$|R
+5000|$|It {{is divided}} <b>into</b> <b>three</b> <b>parts,</b> each {{apparently}} {{unrelated to the}} others: ...|$|R
+5000|$|The {{book was}} divided <b>into</b> <b>three</b> <b>parts,</b> which Burgh {{described}} as follows: ...|$|R
+5000|$|The pubococcygeus {{muscle is}} then divided <b>into</b> <b>three</b> <b>parts</b> on its own.|$|R
+5000|$|The {{meshwork}} {{is divided}} up <b>into</b> <b>three</b> <b>parts,</b> with characteristically different ultrastructures: ...|$|R
+25|$|The {{first phase}} of the group {{audition}} process is divided <b>into</b> <b>three</b> <b>parts.</b>|$|R
